@@ -1,7 +1,4 @@
-package com.othiagoduarte.sd2017.imparpar;
-
-import java.util.logging.Level;
-import java.util.logging.Logger;
+package com.othiagoduarte.sistemas_distribuidos.imparpar;
 
 public class Main {
     public static void main(String[] args) {
